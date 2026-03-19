@@ -1,5 +1,5 @@
 ﻿# 1.Set your path here
-$targetPath = "D:\Backups\Juan Jose Paz\78443"
+$targetPath = "G:\My Drive\[03]Downloads"
 
 # Create a low-level FileSystem Object to bypass 260-char limits
 $fso = New-Object -ComObject Scripting.FileSystemObject
