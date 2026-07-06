@@ -1,5 +1,5 @@
 param(
-    [string]$Drive = "D:",
+    [string]$Drive = "V:",
     [string]$OutputPath = ".\drive_file_list.csv",
     [string[]]$Include = @(),
     [switch]$TextOnly
